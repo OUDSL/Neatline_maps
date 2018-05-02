@@ -4,7 +4,7 @@ Created by Wendy Jordan
 
 ## Table of Contents
 * [What is Neatline?](#what-is-neatline?)
-* [Starting a Neatline Map](#staring-a-neatline-map)
+* [Starting a Neatline Map](#starting-a-neatline-map)
 * [Building a Neatline Map](#building-a-neatline-map)
 
 ### What is Neatline?
