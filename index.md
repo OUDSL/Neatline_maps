@@ -1,6 +1,6 @@
 ## About
-Last Updated 18 April 2018  
-Created by Wendy Jordan
+Last Updated 30 July 2018  
+Created by Wendy Jordan | Updated by Chelsea Smith-Antonides
 
 ## Table of Contents
 * [What is Neatline?](#what-is-neatline?)
@@ -13,7 +13,7 @@ Neatline is an Omeka Plugin that allows you to create a navigable map with data 
 [Return to Top](#about)
 
 ## Starting a Neatline Map
-* Download the Neatline Plugin from Omeka and install it to your site as outlined in the **[OU Create & Omeka](https://oudsl.github.io/OUCreate_and_Omeka/)** guide.
+* Download the Neatline Plugin from **[Omeka](https://omeka.org/classic/plugins/Neatline/)** and install it to your site as outlined in the **[OU Create & Omeka](https://oudsl.github.io/OUCreate_and_Omeka/)** guide.
 * Under the **Neatline** tab in your admin dashboard, select **Exhibit Settings**.
 * Create a title and a URL slug for your map. You can also include a narrative for the page, and select the type of base map (or background map) that appears in your Neatline: Street Map, Terrain Map, Satellite Map etc.
 Check the box to make your Neatline **Public** and save the changed to the page.
