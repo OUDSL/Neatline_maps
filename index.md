@@ -18,7 +18,7 @@ Neatline is an Omeka Plugin that allows you to create a navigable map with data 
 
 ![create exhibit](images/neatline_001.png)
 
-* Create a title for your map. A "URL slug" will automatically generate itself below, but you can change this. This is what the map's URL will look like so make sure it's relevant to the specific project. 
+* Create a title for your map. A "URL slug" will automatically generate itself below, but you can change this later by clicking on **Exhibit Settings**. This is what the map's URL will look like so make sure it's relevant to the specific project. 
 * You can also create a **Narrative** for your map where you can summarize your work, but you can create or edit this later.
 * Scroll down to **Default Spacial Layer** to select the type of base map (or background map) that appears in your Neatline: Street Map, Terrain Map, Satellite Map, etc. 
 * Check the box to make your Neatline **Public** and save the changes to the page.
@@ -41,6 +41,6 @@ Neatline is an Omeka Plugin that allows you to create a navigable map with data 
 ![map shapes](images/neatline_003.png)
 
 * The *Style* tab is where you can alter the appearance of your points/lines/shapes: changing the color, the thickness, the opacity, etc. 
-* **Help Note** If you need additional help/explanation of a specific feature of Neatline, select the **?** button next to the aspect you have a question about for further instruction. 
+* *Note*: If you need additional help/explanation of a specific feature of Neatline, select the **?** button next to the aspect you have a question about for further instruction. 
 
 [Return to Top](#about)
