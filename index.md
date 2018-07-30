@@ -14,7 +14,7 @@ Neatline is an Omeka Plugin that allows you to create a navigable map with data 
 
 ## Starting a Neatline Map
 * Download the Neatline Plugin from **[Omeka](https://omeka.org/classic/plugins/Neatline/)** and install it to your site as outlined in the **[OU Create & Omeka](https://oudsl.github.io/OUCreate_and_Omeka/)** guide.
-* Under the **Neatline** tab in your admin dashboard, select **Create Exhibit**.
+* Under the **Neatline** tab in your admin dashboard (http://yoururl.oucreate.com/admin/), select **Create an Exhibit**.
 
 ![create exhibit](images/neatline_001.png)
 
