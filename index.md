@@ -43,5 +43,4 @@ Neatline is an Omeka Plugin that allows you to create a navigable map with data 
 * The *Style* tab is where you can alter the appearance of your points/lines/shapes: changing the color, the thickness, the opacity, etc. 
 * **Help Note** If you need additional help/explanation of a specific feature of Neatline, select the **?** button next to the aspect you have a question about for further instruction. 
 
-
 [Return to Top](#about)
